@@ -18,3 +18,5 @@ The dataset is comprised of the customer related attributes ID, credit limit, ge
 # Software and Big Data Technologies
 
 Virtual Machine is used to allow for a Linux/Ubuntu platform to download and set up the Cloudera 6.3.2 connection. AWS is used to set up the hardware and software processes. HDFS is used for data storage. Spark, or specifically PySpark, is used for further analysis and machine learning on Yarn, with MapReduce as the background process for job processing and initial processing. The coding is done in PySpark which is a Python Programming Language used to integrate with Spark. Tableau and Seaborn are used for the visualizations. 
+
+![image](https://user-images.githubusercontent.com/55992728/117172229-9a952800-ad99-11eb-933c-33626224fd39.png)

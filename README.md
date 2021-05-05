@@ -14,3 +14,7 @@ Credit defaulting results in a large profit loss to banks and other credit lende
 # Dataset Details - default of credit card clients.csv
 The dataset chosen is titled “Default of Credit Card Clients” and looks at the default customer payments data within the timeframe April 2005 – September 2005. The dataset can originally be found from the UCI Machine Learning Repository  (Yeh,2016). The data was collected with the intention to predict default probability, to see which clients are credible and which are not. The dataset contains 25 attributes, comprised of categorical, integer, and real data, with 30,000 observations, with no null values. 
 The dataset is comprised of the customer related attributes ID, credit limit, gender, education level, marital status, age, past payment status, bill statement, payment statement, and anticipated defaulting status, where each row contains a different customer’s status across each of the attributes. 
+
+#Software and Big Data Technologies: 
+
+Virtual Machine is used to allow for a Linux/Ubuntu platform to download and set up the Cloudera 6.3.2 connection. AWS is used to set up the hardware and software processes. HDFS is used for data storage. Spark, or specifically PySpark, is used for further analysis and machine learning on Yarn, with MapReduce as the background process for job processing and initial processing. The coding is done in PySpark which is a Python Programming Language used to integrate with Spark. Tableau and Seaborn are used for the visualizations. 
